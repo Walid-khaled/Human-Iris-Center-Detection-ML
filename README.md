@@ -1,5 +1,5 @@
 ## Human-Iris-Center-Detection-ML
-This repository contains an implementation for implement CNN for calculating human iris center. It is a solution for Assignment2 in Software System Design course for ROCV master's program at Innopolis University.
+This repository contains an implementation for calculating human iris center using CNN model built by PyTorch. The CNN architecture is proposed in this paper. It is apart of Assignment2 in Machine Learning course for ROCV master's program at Innopolis University.
 
 ---
 ### Table of Content 
@@ -10,15 +10,3 @@ This repository contains an implementation for implement CNN for calculating hum
 ├── Task description       
 └── Readme.md
 ```
-
-### Libraries Installation
-- sys
-- timeit
-- subprocess
-- from os.path import exists
-- os
-- dis
-- marshal
-- py_compile
-
----

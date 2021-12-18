@@ -7,6 +7,6 @@ This repository contains an implementation for calculating human iris center usi
 ├── src              <- directory for source files 
 |    ├── main.ipynp  <- contains ipynp notebook
 |
-├── Task description       
+├── Task description.pdf       
 └── Readme.md
 ```

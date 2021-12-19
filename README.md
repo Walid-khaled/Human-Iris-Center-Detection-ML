@@ -28,6 +28,7 @@ You can use cv2 as tool in that task to read, convert color of images, to draw s
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90580636/146690903-6f7c2f99-a3b7-45f9-95cc-69774123529f.png" />
 </p>
-<p align="center">Figure 1</p>
+align="center">Figure 1
+
 - Finally, your X and Y sets are lists of 48x48 images. X contains images of eye and Y images with white pixel on the place of iris center.
 - Split dataset 

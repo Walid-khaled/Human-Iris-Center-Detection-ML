@@ -37,5 +37,5 @@ You can use cv2 as tool in that task to read, convert color of images, to draw s
 - Compile and train CNN with different optimizers [sgd, adam, adamax, rmsprop], loss functions [mse, mae] and activations [tanh, relu, sigmoid]. Report best combination.
 - Make a prediction for 10 test images. Draw predicted centers on them and visualize it. (You can draw iris center with cv2.circle())  
 
-**HINTS: Use colab with GPU to speed up training and hyperparameter tuning.**
+**HINT: Use colab with GPU to speed up training and hyperparameter tuning.**
 
